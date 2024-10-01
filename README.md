@@ -22,5 +22,5 @@ This repository includes a variety of exercises tailored to the different course
   - Introduction to Python programming and libraries used in data science.
 
 - **Course 5: Python Project for Data Science**
-  - [Analyzing Historical Stock/Revenue Data and Building a Dashboard Assignment](#) 
+  - [Analyzing Historical Stock/Revenue Data and Building a Dashboard Assignment](https://github.com/viorbe20/data-science-ibm-course/blob/main/python-project-for-data-science/Analyzing-Historical-Stock-Revenue-Data-and-Building-Final-Assignment.ipynb) 
   - Practical project applying data analysis techniques to stock/revenue data.
